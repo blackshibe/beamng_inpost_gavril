@@ -1,0 +1,48 @@
+{
+	"0-100 km/h": 11.3,
+	"0-100 mph": 39.9,
+	"0-60 mph": 10.6,
+	"100-0 km/h": 42.5,
+	"60-0 mph": 131,
+	"60-100 mph": 29.2,
+	"Body Style": "Van",
+	"BoundingBox": [
+		[-0.68, -1.35, -0.32],
+		[1.78, 4.16, 1.73]
+	],
+	"Braking G": 0.925,
+	"Config Type": "Custom",
+	"Configuration": "Inpost H15 (A)",
+	"Description": "Polish InPost Delivery Company livery with packages inside",
+	"Drag Times": {
+		"brakingG": 0.8686183687,
+		"time_0_60": 10.44700057,
+		"time_1000": 14.75100084,
+		"time_1_4": 17.68150104,
+		"time_1_8": 11.30500064,
+		"time_330": 7.322000415,
+		"time_60": 2.616500148,
+		"velAt_1_4": 34.53072269,
+		"velAt_1_8": 27.97335496
+	},
+	"Drivetrain": "RWD",
+	"Fuel Type": "Gasoline",
+	"Induction Type": "NA",
+	"Off-Road Score": 34,
+	"Population": 12000,
+	"Power": 197,
+	"PowerPeakRPM": "3950 - 4600",
+	"Propulsion": "ICE",
+	"Top Speed": 48.43678267,
+	"Torque": 375,
+	"TorquePeakRPM": "2950 - 3650",
+	"Transmission": "Automatic",
+	"Value": 33000,
+	"Weight": 2350,
+	"Weight/Power": 11.92893401,
+	"Years": {
+		"max": 2005,
+		"min": 1993
+	},
+	"defaultPaintName1": "InPost"
+}

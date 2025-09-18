@@ -1,0 +1,80 @@
+{
+	"van.skin.inpost": {
+		"name": "van.skin.inpost",
+		"mapTo": "van.skin.inpost",
+		"class": "Material",
+		"persistentId": "2c1716b6-6515-4920-a39c-202ee48ec78c",
+		"Stages": [
+			{
+				"ambientOcclusionMap": "/vehicles/van/van_main_ao.data.png",
+				"baseColorMap": "/vehicles/van/van_main_b.color.png",
+				"metallicMap": "/vehicles/van/van_main_m.data.png",
+				"metallicFactor": 1,
+				"roughnessFactor": 1,
+				"normalMap": "/vehicles/van/van_main_nm.normal.png",
+				"roughnessMap": "/vehicles/van/van_main_r.data.png",
+				"useAnisotropic": true
+			},
+			{
+				"ambientOcclusionMap": "/vehicles/van/van_main_ao.data.png",
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_textures/van_skin_inpost.color.png",
+				"useAnisotropic": true,
+				"diffuseMapUseUV": 1,
+				"clearCoatFactor": 1,
+				"clearCoatRoughnessFactor": 0.05,
+				"metallicFactor": 0.7,
+				"clearCoatMap": "/vehicles/van/van_main_cc.data.png",
+				"normalMap": "/vehicles/van/van_main_nm.normal.png",
+				"opacityMap": "/vehicles/van/van_main_c.data.png",
+				"colorPaletteMap": "/vehicles/van/inpost_gavril_h/inpost_textures/van_skin_inpost_palette.color.png",
+				"colorPaletteMapUseUV": 1
+			},
+			{},
+			{}
+		],
+		"activeLayers": 2,
+		"dynamicCubemap": true,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_filled_frame.skin.inpost": {
+		"name": "van_filled_frame.skin.inpost",
+		"mapTo": "van_filled_frame.skin.inpost",
+		"class": "Material",
+		"persistentId": "2c1716b6-6515-4920-a39c-202ee48ec78c",
+		"Stages": [
+			{
+				"ambientOcclusionMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_ao.data.png",
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_b.color.png",
+				"metallicMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_m.data.png",
+				"metallicFactor": 1,
+				"roughnessFactor": 1,
+				"normalMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_nm.normal.png",
+				"roughnessMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_r.data.png",
+				"useAnisotropic": true
+			},
+			{
+				"ambientOcclusionMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_ao.data.png",
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_textures/van_skin_inpost.color.png",
+				"useAnisotropic": true,
+				"diffuseMapUseUV": 1,
+				"clearCoatFactor": 1,
+				"clearCoatRoughnessFactor": 0.05,
+				"metallicFactor": 0.7,
+				"clearCoatMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_cc.data.png",
+				"normalMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_nm.normal.png",
+				"opacityMap": "/vehicles/van/inpost_gavril_h/rear_door_textures/van_main_c.data.png",
+				"colorPaletteMap": "/vehicles/van/inpost_gavril_h/inpost_textures/van_skin_inpost_palette.color.png",
+				"colorPaletteMapUseUV": 1
+			},
+			{},
+			{}
+		],
+		"activeLayers": 2,
+		"dynamicCubemap": true,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "bluebox": {
+    "name": "bluebox",
+    "mapTo": "bluebox",
+    "class": "material",
+    "persistentId": "6a8b4ac2-3ba4-4962-aa00-1cd0daa34bdb",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0,
+          0.00475607021,
+          0.80009383,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"van_skin_inpost_": {
+		"information": {
+			"authors": "blackshibe",
+			"name": "Inpost Delivery",
+			"value": 200
+		},
+		"slotType": "paint_design",
+		"globalSkin": "inpost"
+	}
+}

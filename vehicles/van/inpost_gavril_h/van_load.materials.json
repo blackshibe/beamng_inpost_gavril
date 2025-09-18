@@ -1,0 +1,128 @@
+{
+	"van_package_01": {
+		"name": "van_package_01",
+		"mapTo": "S_01",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/S_01_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_package_02": {
+		"name": "van_package_02",
+		"mapTo": "S_02",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/S_02_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_package_03": {
+		"name": "van_package_03",
+		"mapTo": "S_03",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/S_03_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_package_04": {
+		"name": "van_package_04",
+		"mapTo": "M_01",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/M_01_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_package_05": {
+		"name": "van_package_04",
+		"mapTo": "M_02",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/M_02_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_package_06": {
+		"name": "van_package_06",
+		"mapTo": "M_03",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/M_03_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	},
+	"van_package_07": {
+		"name": "van_package_07",
+		"mapTo": "L_01",
+		"class": "Material",
+		"Stages": [
+			{
+				"baseColorMap": "/vehicles/van/inpost_gavril_h/inpost_packages/textures/L_01_BaseColor.png",
+				"useAnisotropic": true
+			},
+			{},
+			{},
+			{}
+		],
+		"activeLayers": 1,
+		"materialTag0": "beamng",
+		"materialTag1": "vehicle",
+		"version": 1.5
+	}
+}

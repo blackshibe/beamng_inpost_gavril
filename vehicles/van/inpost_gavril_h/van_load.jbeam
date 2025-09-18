@@ -1,0 +1,29 @@
+{
+
+"van_load_inpost_boxes": {
+    "information":{
+        "authors":"beamng",
+        "name":"van_load_inpost_boxes",
+    },
+    "slotType" : "van_load",
+    "slots": [
+        ["type", "default", "description"],
+        ["van_inpost_box_01_slot", "van_inpost_box_01", "van_inpost_box_01 Name",{"nodeMove":{"x": 0.5,"y": 1.00,"z":0.8}}],
+        ["van_inpost_box_02_slot", "van_inpost_box_02", "van_inpost_box_02 Name",{"nodeMove":{"x": 0.5,"y": 1.00,"z":1.0}}],
+        ["van_inpost_box_03_slot", "van_inpost_box_03", "van_inpost_box_03 Name",{"nodeMove":{"x": 0.5,"y": 1.5,"z":1.1}}],
+        ["van_inpost_box_04_slot", "van_inpost_box_04", "van_inpost_box_04 Name",{"nodeMove":{"x": 0.5,"y": 2.00,"z":1.5}}],
+        ["van_inpost_box_05_slot", "van_inpost_box_05", "van_inpost_box_05 Name",{"nodeMove":{"x": -0.5,"y": 2.00,"z":1.5}}],
+        ["van_inpost_box_06_slot", "van_inpost_box_06", "van_inpost_box_06 Name",{"nodeMove":{"x": -0.5,"y": 1.0,"z":0.8}}],
+        ["van_inpost_box_07_slot", "van_inpost_box_07", "van_inpost_box_07 Name",{"nodeMove":{"x": -0.3,"y": 2.00,"z":1.00}}],
+        // ["van_inpost_box_08_slot", "van_inpost_box_08", "van_inpost_box_08 Name",{"nodeMove":{"x": 0.2,"y": 1.0,"z":1.00}}],
+        ["van_inpost_box_09_slot", "van_inpost_box_09", "van_inpost_box_09 Name",{"nodeMove":{"x": -0.3,"y": 1.00,"z":1.00}}],
+        // ["van_inpost_box_10_slot", "van_inpost_box_10", "van_inpost_box_10 Name",{"nodeMove":{"x": -0.3,"y": 4.00,"z":1.00}}],
+        ["van_inpost_box_11_slot", "van_inpost_box_11", "van_inpost_box_11 Name",{"nodeMove":{"x": 0.3,"y": 1.50,"z":1.00}}],
+        ["van_inpost_box_12_slot", "van_inpost_box_12", "van_inpost_box_12 Name",{"nodeMove":{"x": -0.3,"y": 0.60,"z":1.00}}],
+        ["van_inpost_box_13_slot", "van_inpost_box_13", "van_inpost_box_13 Name",{"nodeMove":{"x": -0.3,"y": 1.50,"z":1.00}}],
+        ["van_inpost_box_14_slot", "van_inpost_box_14", "van_inpost_box_14 Name",{"nodeMove":{"x": 0.3,"y": 1.00,"z":1.00}}],
+        ["van_inpost_box_15_slot", "van_inpost_box_15", "van_inpost_box_15 Name",{"nodeMove":{"x": 0.3,"y": 1.1,"z":1.60}}],
+    ],
+},
+
+}
